@@ -2,6 +2,7 @@ import React from 'react'
 import Navigation from '../Navbar/Navbar'
 import styles from './Home.module.css'
 import mission from '../../Assets/mission.png'
+import leaves from '../../Assets/leaves.png'
 function Home() {
     return (
         <div className={styles.layer}>
@@ -44,6 +45,9 @@ function Home() {
                             <p style={{fontWeight:'bold',letterSpacing:'0px',color:'red',font: 'normal normal normal 40px/39px Bebas Neue',marginTop:'10px'}}>06</p>
                             <p style={{ width:'100%',height:'40px',fontWeight:'bold',letterSpacing:'0px',textTransform:'uppercase',color:'#003189',font: 'normal normal normal 8px/39px Bebas Neue'}}>Business Verticals</p>
                         </div>
+                    </div>
+                    <div className={styles.card_5}>
+                        <img src={leaves}/>
                     </div>
                 </div>
             </div>
