@@ -3,6 +3,7 @@ import Navigation from '../Navbar/Navbar'
 import styles from './Home.module.css'
 import mission from '../../Assets/mission.png'
 import leaves from '../../Assets/leaves.png'
+import Hyphens from '../Hyphens/Hyphens'
 function Home() {
     return (
         <div className={styles.layer}>
@@ -49,7 +50,11 @@ function Home() {
                     <div className={styles.card_5}>
                         <img src={leaves}/>
                     </div>
+                    <div className={styles.hyphens}>
+                        <Hyphens />
+                    </div>
                 </div>
+                
             </div>
         </div>
     )
