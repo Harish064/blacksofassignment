@@ -1,15 +1,14 @@
 import React from 'react'
 import styles from './Header.module.css'
-function Header() {
+function Header(props) {
+    const {height} = props
     return (
-        <div className={styles.header}>
-            <div className={styles.image}>
-                <div className={styles.layer}>
+        <div style={{height:{height}}} className={styles.header}>
+            <div style={{height:{height}}} className={styles.image}>
+                <div style={{height:{height}}} className={styles.layer}>
                 </div>
             </div>
-            <p className={styles.text}>All-IN-ONE SOLUTION PROVIDER FOR YOUR TECHNOLOGICAL NEEDS SYSTEM LEVEL SOLUTIONS</p>
-            <hr className={styles.line}></hr>
-            <p className={styles.sub_text}>Industry leaders in providing solutions catering to the domains of intellectual property, hardware design & prototyping, software design, and manufacturing.</p>
+            {props.children}
         </div>
     )
 }
