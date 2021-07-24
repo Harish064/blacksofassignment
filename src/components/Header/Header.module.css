@@ -1,0 +1,56 @@
+.header{
+    position: relative;
+    background: url('../../Assets/sls-office3.1e9e26cb.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100%;
+}
+.image{
+    /* background-color:#000000; */
+    background: transparent url('../../Assets/luo-lei-Xa4pTwafe5U-unsplash.png') 0% 0% no-repeat padding-box;
+    
+    height: 900px;
+    width: 100%;
+    opacity: 0.59;
+}
+.layer{
+    background: #000000;
+    opacity: 0.59;
+    height: 900px;
+    width: 100%;
+}
+.text{
+    color :#FFFFFF;
+    position: absolute;
+    top: 264px;
+    left: 43px;
+    text-align: center;
+    width: 1475px;
+    height: 186px;
+    letter-spacing: 0px;
+    font-weight: bold;
+    font-size: 45px;
+    font-family: "Bebas Neue";
+    opacity: 1;
+}
+.line{
+    position: absolute;
+    width: 450px;
+    top: 380px;
+    left: 35%;
+    height: 4px!important;
+    background: red;
+}
+.sub_text{
+    position: absolute;
+    top: 400px;
+    left: 451px;
+    width: 618px;
+    height: 63px;
+    text-align: center;
+    font: normal normal normal 18px/30px Access;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
