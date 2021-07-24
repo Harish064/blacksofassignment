@@ -46,8 +46,8 @@
 .card_1{
     position: relative;
     background: #FFFFFF;
-    width: 169px;
-    height: 135px;
+    width: 209px;
+    height: 155px;
     
 
 }
@@ -66,8 +66,8 @@
 .card_2{
     position: relative;
     background: #FFFFFF;
-    width: 115px;
-    height: 105px;
+    width: 135px;
+    height: 125px;
     margin-left: -60px;
     border: 2px solid #E6E6E6;
     
@@ -85,12 +85,12 @@
 
 .card_3{
     background: #003189 0% 0% no-repeat padding-box;
-    width: 115px;
+    width: 135px;
     position: absolute;
-    left: 54.5px;
-    margin-top: -105px;
+    left: 74.5px;
+    margin-top: -125px;
     border: 2px solid #E6E6E6;text-align: center;
-    height: 105px;
+    height: 125px;
 }
 .card_3 img{
     margin-top: 25px;
@@ -99,11 +99,11 @@
 }
 .card_4{
     position: absolute;
-    left: 169px;
-    margin-top: -105px;
+    left: 209px;
+    margin-top: -125px;
     background: #FFFFFF;
-    width: 115px;
-    height: 105px;
+    width: 135px;
+    height: 125px;
 }
 .card_4_content{
     margin-left: 15px;
@@ -114,5 +114,19 @@
     text-align: center;
     margin: 0px;
     width: 100%;
+}
+.card_5{
+    background: #CA0017 0% 0% no-repeat padding-box;
+    width: 135px;
+    position: absolute;
+    left: 209px;
+    margin-top: -250px;
+    border: 2px solid #E6E6E6;text-align: center;
+    height: 125px;
+}
+.card_5 img{
+    margin-top: 25px;
+    width: 50px;
+    height: 50px;
 }
 
