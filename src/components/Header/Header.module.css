@@ -3,21 +3,21 @@
     background: url('../../Assets/sls-office3.1e9e26cb.png');
     background-position: center;
     background-repeat: no-repeat;
-    height: 900px;
+    height: 755px;
     width: 100%;
 }
 .image{
     /* background-color:#000000; */
     background: transparent url('../../Assets/luo-lei-Xa4pTwafe5U-unsplash.png') 0% 0% no-repeat padding-box;
     
-    height: 900px;
+    height: 755px;
     width: 100%;
     opacity: 0.59;
 }
 .layer{
     background: #000000;
     opacity: 0.59;
-    height: 900px;
+    height: 755px;
     width: 100%;
 }
 .text{
