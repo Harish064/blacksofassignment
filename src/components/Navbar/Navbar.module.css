@@ -1,8 +1,9 @@
 .navbar{
     position: absolute;
-    top: 90;
+    top: 30px;
     width: 100%;
 }
 .link{
     color: #FFFFFF!important;
+    margin-right: 26px!important;
 }
