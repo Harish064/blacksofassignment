@@ -1,0 +1,11 @@
+.container{
+    background:  transparent url('../../Assets/RepeatGrid1.svg') 0% 0% no-repeat padding-box;
+    width: 100%;
+    height: 2371px;
+    position: relative;
+}
+.layer{ 
+    background: rgb(21, 21, 137);
+    width: 100%;
+    height: 2371px;
+}

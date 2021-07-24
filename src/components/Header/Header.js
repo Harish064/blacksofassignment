@@ -6,7 +6,6 @@ function Header() {
             <div className={styles.image}>
                 <div className={styles.layer}>
                 </div>
-                
             </div>
             <p className={styles.text}>All-IN-ONE SOLUTION PROVIDER FOR YOUR TECHNOLOGICAL NEEDS SYSTEM LEVEL SOLUTIONS</p>
             <hr className={styles.line}></hr>
