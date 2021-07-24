@@ -48,7 +48,7 @@ function Home() {
                         </div>
                     </div>
                     <div className={styles.card_5}>
-                        <img src={leaves}/>
+                        <img src={leaves} />
                     </div>
                     <div className={styles.hyphens}>
                         <Hyphens />
