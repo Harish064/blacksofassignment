@@ -18,3 +18,22 @@
     height: 755px;
     width: 100%;
 }
+.header_1{
+    position: relative;
+    background: url('../../Assets/man-worker-firld-by-solar-panels.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.image_1{
+    /* background-color:#000000; */
+    background: transparent url('../../Assets/luo-lei-Xa4pTwafe5U-unsplash.png') 0% 0% no-repeat padding-box;
+    width: 100%;
+    opacity: 0.2;
+}
+.layer_1{
+    background: #000000;
+    opacity: 0.59;
+    height: 595px;
+    width: 100%;
+}
