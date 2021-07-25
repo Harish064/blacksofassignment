@@ -51,7 +51,7 @@ function Home() {
                         <img src={leaves} />
                     </div>
                     <div className={styles.hyphens}>
-                        <Hyphens />
+                        <Hyphens container="container" item="item" active="active" />
                     </div>
                 </div>
                 
