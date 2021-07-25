@@ -2,6 +2,7 @@ import styles from './App.module.css'
 import Header from './components/Header/Header'
 import Home from './components/Home/Home';
 import Hyphens from './components/Hyphens/Hyphens';
+import MainContainer from './components/MainContainer/MainContainer';
 
 function App() {
   return (
@@ -18,9 +19,10 @@ function App() {
             <p className={styles.sub_text_1}>We aim to leverage technology as a tool to build solutions that have the potential of bringing a transformational shift across sectors.</p>
             <p className={styles.sub_text_2}>MARKET LEADERS IN MULTIPLE PRODUCT DOMAINS</p>
             <div className={styles.hyphens}>
-              <Hyphens />
+              <Hyphens container="container" item="item" active="active" />
             </div>
       </Header>
+      <MainContainer />
     </>
   );
 }
