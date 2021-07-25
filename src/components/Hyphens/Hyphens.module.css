@@ -18,11 +18,12 @@
 }
 .vcontainer{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-    width: 150px;
+    height: 100px;
 }
 .vcontainer .vitem{
-    width: 30px;
+    height: 20px;
     border: 2px solid #FFFFFF;
     border-radius: 5px;
     background: #FFFFFF;
@@ -31,6 +32,6 @@
 .vactive{
     border-radius: 5px;
     background: #CA0017;
-    width: 30px;
+    height: 20px;
     border: 2px solid #CA0017;
 }
