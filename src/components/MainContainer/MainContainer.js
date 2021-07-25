@@ -1,4 +1,5 @@
 import React from 'react'
+import AllCardsContainer from '../AllCardsContainer/AllCardsContainer'
 import CardsContainer from '../CardsContainer/CardsContainer'
 import styles from './MainContainer.module.css'
 function MainContainer() {
@@ -35,6 +36,7 @@ function MainContainer() {
                     </div>
                 </div>
             </div>
+            <AllCardsContainer />
         </div>
     )
 }
