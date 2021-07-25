@@ -7,7 +7,7 @@
 .layer{ 
     background: #003189;
     width: 100%;
-    height: 1600px;
+    height: 1650px;
 }
 .text_container{
     position: absolute;
@@ -175,7 +175,7 @@
 .research_img{
     position: absolute;
     right: 0px;
-    height: 299px;
+    height: 359px;
     width: 800px;
     top: 400px;
     background: transparent url('../../Assets/side-view-of-data-analyst-pointing-with-finger-at--4DGBGUW.png') 0% 0% no-repeat padding-box;
@@ -186,4 +186,14 @@
     bottom: 150px;
     left: 30px;
 
+}
+.research_text{
+    position: absolute;
+    width: 289px;
+    height: 135px;
+    bottom: 0px;
+    text-align: left;
+    color: #FFFFFF;
+    font: normal normal normal 52px/175px Bebas Neue;
+    opacity: 1;
 }
