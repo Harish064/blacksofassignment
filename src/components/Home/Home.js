@@ -43,7 +43,7 @@ function Home() {
                         </div>
                     </div>
                     <div className={styles.card_3}>
-                        <img src={mission}/>
+                        <img src={mission}  alt="mission"/>
                     </div>
                     <div className={styles.card_4}>
                         <div className={styles.card_4_content}>
@@ -52,7 +52,7 @@ function Home() {
                         </div>
                     </div>
                     <div className={styles.card_5}>
-                        <img src={leaves} />
+                        <img src={leaves} alt="leaves" />
                     </div>
                     <div className={styles.hyphens}>
                         <Hyphens container="container" item="item" active="active" />

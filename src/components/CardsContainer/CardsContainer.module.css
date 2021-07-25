@@ -1,0 +1,74 @@
+.outer_container{
+    background-color: #FFFFFF;
+    position: relative;
+    top: 150px;
+    width: 50%;
+    height: 730px;
+    left: 400px;
+}
+.card_text_1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 479px;
+    height: 96px;
+    font: normal normal normal 25px/28px Bebas Neue;
+    color: #000000;
+    letter-spacing: 0px;
+    opacity: 1;
+    text-align: left;
+
+}
+.card_text_2{
+    position: absolute;
+    left: 0px;
+    top: 90px;
+    width: 828px;
+    height: 116px;
+    text-align: left;
+    color: #000000;
+    letter-spacing: 0px;
+    font: normal normal normal 20px/30px Access;
+    opacity: 1;
+}
+.hr_container{
+    display: flex;
+    position: absolute;
+    top: 70px;
+    justify-content: space-between;
+    width: 50px;
+}
+.card_line_1{
+    width: 35px;
+    border-radius: 5px;
+    height: 2px;
+    background-color: #CA0017;
+}
+.card_line_2{
+    width: 10px;
+    border-radius: 5px;
+    height: 2px;
+    background-color: #CA0017;
+}
+.contain_cards{
+    position: absolute;
+    top: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.button{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    width: 130px;
+    height: 35px;
+    background: #003189 0% 0% no-repeat padding-box;
+    border-radius: 3px;
+    text-align: center;
+    font: normal normal normal 18px/30px Access;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}

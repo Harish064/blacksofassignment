@@ -20,7 +20,7 @@ function Hyphens(props) {
         <div
          style={{flexDirection:{flexDirection}}}
          className={divcontainer}>
-            <div style={{height:{height},width:{width}}} className={divitem ,divactive}>
+            <div style={{height:{height},width:{width}}} className={divitem,divactive}>
             </div>
             <div style={{height:{height},width:{width}}} className={divitem}>
             </div>

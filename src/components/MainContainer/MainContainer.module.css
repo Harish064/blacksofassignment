@@ -1,5 +1,6 @@
 .main_container{
+    position: relative;
     height: 3000px;
     width: 100%;
-    background-color: red;
+    background-color: #FFFFFF;
 }

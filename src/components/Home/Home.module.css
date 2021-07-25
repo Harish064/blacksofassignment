@@ -99,7 +99,6 @@
 .card_4{
     position: absolute;
     right: 0px;
-    /* left: 209px; */
     bottom:0px;
     background: #FFFFFF;
     width: 135px;
@@ -121,7 +120,8 @@
     position: absolute;
     right: 0px;
     top: 30px;
-    border: 2px solid #E6E6E6;text-align: center;
+    border: 2px solid #E6E6E6;
+    text-align: center;
     height: 125px;
 }
 .card_5 img{
@@ -208,11 +208,11 @@
     width: 35px;
     border-radius: 5px;
     height: 2px;
-    background-color: red;
+    background-color: #CA0017;
 }
 .research_line_2{
     width: 10px;
     border-radius: 5px;
     height: 2px;
-    background-color: red;
+    background-color: #CA0017;
 }
