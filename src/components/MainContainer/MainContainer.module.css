@@ -3,4 +3,121 @@
     height: 3000px;
     width: 100%;
     background-color: #FFFFFF;
+    /* background-color: red; */
+}
+.offer_text{
+    position: absolute;
+    top: 1020px;
+    left: 400px;
+    width: 375px;
+    height: 96px;
+    text-align: left;
+    font: normal normal normal 25px/35px Bebas Neue;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+    /* background-color: #FFFFFF; */
+}
+.offer_outer_layer{ 
+    position: absolute;
+    top: 1220px;
+    background: #003189;
+    width: 100%;
+    height: 400px;
+}
+.offer_container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.offer_text_container{
+    position: absolute;
+    top: 90px;
+    left: 400px;
+    width: 280px;
+    height: 250px;
+    /* background: #FFFFFF; */
+}
+.ul_container{
+    position: relative;
+    top: 20px;
+}
+.li_item{
+    list-style: none;
+    text-align: left;
+    height: 25px;
+    padding-left: 10px;
+    font: normal normal 300 15px Access;
+    letter-spacing: 0px;
+    margin-top: 13px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+.li_active{
+    list-style: none;
+    height: 25px;
+    text-align: left;
+    margin-top: 13px;
+    font: normal normal 300 15px Access;
+    padding-left: 10px;
+    border-left:3px solid #CA0017 ;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.offer_img_container{
+    position: absolute;
+    right: 350px;
+    top: -160px;
+    height: 320px;
+    width: 300px;
+    background: transparent url('../../Assets/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.png') 0% 0% no-repeat padding-box;
+    background-position: center;
+    opacity: 1;
+}
+.img_indicator{
+    position: absolute;
+    right: 330px;
+    top: -80px;
+    height: 160px;
+    width: 20px;
+    background: #CA0017 ;
+}
+.hr_container{
+    display: flex;
+    position: absolute;
+    top: 45%;
+    right: 600px;
+    justify-content: space-between;
+    width: 50px;
+}
+.research_line_1{
+    width: 35px;
+    border-radius: 5px;
+    height: 2px;
+    background-color: #CA0017;
+}
+.research_line_2{
+    width: 10px;
+    border-radius: 5px;
+    height: 2px;
+    background-color: #CA0017;
+}
+.img_text{
+    position: absolute;
+    top: 50%;
+    right: 350px;
+    width: 300px;
+    height: 80px;
+    color: #FFFFFF;
+    /* background-color: white; */
+}
+.img_text_1{
+    text-align: left;
+    font: normal normal 300 13.5px Access;
+    
+    letter-spacing: 0px;
+    /* color: #FFFFFF; */
+    opacity: 1;
 }
