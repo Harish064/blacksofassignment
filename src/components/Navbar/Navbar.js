@@ -8,7 +8,7 @@ function Navigation() {
             <Navbar>
             <Container >
                 <Navbar.Brand href="#home" >
-                    <img className={styles.logo} src={logo}></img>
+                    <img className={styles.logo} src={logo} alt="logo"></img>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
