@@ -13,6 +13,10 @@ function Home() {
                     <div className={styles.text_header}>
                         <p>TECHNOLOGY PARTNERS IN HARDWARE AND SOFTWARE OFFERINGS</p>
                     </div>
+                    <div className={styles.hr_container}>
+                        <div className={styles.research_line_1}></div>
+                        <div className={styles.research_line_2}></div>
+                    </div>
                     <div className={styles.text_subheader}>
                         <p>Serving as a turnkey solutions provider for the past 20 years.</p>
                     </div>
@@ -59,7 +63,11 @@ function Home() {
                         <p className={styles.research_text_1}>
                             INTEGRATION SPECIALIST <br></br>ACROSS VARIOUS VERTICALS
                         </p>
-                        <hr className={styles.research_line_1}></hr><hr></hr>
+                        <div className={styles.hr_container}>
+                            <div className={styles.research_line_1}></div>
+                            <div className={styles.research_line_2}></div>
+                        </div>
+                        
                         <p className={styles.research_text_2}>
                             Assisting companies to avoid pitfalls in the product design and development <br/> phase, our experienced team at System Level Solutions uses innovation <br/>across levels to materialize the creative perspective of a client.
                         </p>
