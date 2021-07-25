@@ -76,15 +76,15 @@
     list-style: none;
     letter-spacing: 0px;
     color: #003189;
+    opacity: 1;
 
 }
 .nav_active{
     list-style: none;
-    border-bottom: 1px solid #CA0017 ;
-    color: #CA0017;
+    border-bottom: 1px solid red ;
+    color: red;
     letter-spacing: 0px;
-    
-
+    opacity: 1;
 }
 .contain_cards{
     display: flex;
