@@ -59,6 +59,7 @@ function Home() {
                         <p className={styles.research_text_1}>
                             INTEGRATION SPECIALIST <br></br>ACROSS VARIOUS VERTICALS
                         </p>
+                        <hr className={styles.research_line_1}></hr><hr></hr>
                         <p className={styles.research_text_2}>
                             Assisting companies to avoid pitfalls in the product design and development <br/> phase, our experienced team at System Level Solutions uses innovation <br/>across levels to materialize the creative perspective of a client.
                         </p>
@@ -66,6 +67,9 @@ function Home() {
                         </div>
                         <div className={styles.hyphen_1}>
                             <Hyphens flexDirection="column" container="vcontainer" item="vitem" active="vactive"  />
+                        </div>
+                        <div className={styles.research_text}>
+                            RESEARCH
                         </div>
                     </div>
                 </div>
