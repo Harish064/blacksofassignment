@@ -16,3 +16,21 @@
     width: 30px;
     border: 2px solid #CA0017;
 }
+.vcontainer{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+}
+.vcontainer .vitem{
+    width: 30px;
+    border: 2px solid #FFFFFF;
+    border-radius: 5px;
+    background: #FFFFFF;
+    opacity: 1;
+}
+.vactive{
+    border-radius: 5px;
+    background: #CA0017;
+    width: 30px;
+    border: 2px solid #CA0017;
+}
