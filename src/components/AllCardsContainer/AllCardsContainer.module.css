@@ -1,0 +1,121 @@
+.cards_outer_container{
+    position: absolute;
+    top: 1720px;
+    right: 0px;
+    width: 75%;
+    height: 600px;
+}
+.all_container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.cards_container{
+    position: absolute;
+    top: 200px;
+}
+.card_text_1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 479px;
+    height: 96px;
+    font: normal normal normal 25px/28px Bebas Neue;
+    color: #000000;
+    letter-spacing: 0px;
+    opacity: 1;
+    text-align: left;
+
+}
+.card_text_2{
+    position: absolute;
+    left: 0px;
+    top: 90px;
+    width: 828px;
+    height: 116px;
+    text-align: left;
+    color: #000000;
+    letter-spacing: 0px;
+    font: normal normal normal 20px/30px Access;
+    opacity: 1;
+}
+.hr_container{
+    display: flex;
+    position: absolute;
+    top: 70px;
+    justify-content: space-between;
+    width: 50px;
+}
+.card_line_1{
+    width: 35px;
+    border-radius: 5px;
+    height: 2px;
+    background-color: #CA0017;
+}
+.card_line_2{
+    width: 10px;
+    border-radius: 5px;
+    height: 2px;
+    background-color: #CA0017;
+}
+.cards_container{
+    width: 100%;
+    position: absolute;
+    left: 60px;
+}
+.nav_container{
+    width: 100%;
+}
+.nav_bar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+    width: 35%;
+}
+.nav_item{
+    list-style: none;
+    letter-spacing: 0px;
+    color: #003189;
+
+}
+.nav_active{
+    list-style: none;
+    border-bottom: 1px solid #CA0017 ;
+    color: #CA0017;
+    letter-spacing: 0px;
+    
+
+}
+.contain_cards{
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+}
+.btn_container{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0px;
+    left: 10px;
+}
+.btn_next{
+    width: 25px;
+    height: 30px;
+    margin-left: 10px;
+    background-color: #003189;
+    background: transparent url('../../Assets/left-arrow.png') 0% 0% no-repeat padding-box;
+}
+.previous{
+    background: #003189 0% 0% no-repeat padding-box;
+}
+.next{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+.btn_previous{
+    width: 25px;
+    height: 30px;
+    background-color: #FFFFFF;
+    margin-left: 10px;
+    background: transparent url('../../Assets/left-arrow-1.png') 0% 0% no-repeat padding-box;
+
+}

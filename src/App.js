@@ -3,7 +3,7 @@ import Header from './components/Header/Header'
 import Home from './components/Home/Home';
 import Hyphens from './components/Hyphens/Hyphens';
 import MainContainer from './components/MainContainer/MainContainer';
-
+import Footer from './components/Footer/Footer'
 function App() {
   return (
     <>
@@ -23,6 +23,7 @@ function App() {
             </div>
       </Header>
       <MainContainer />
+      <Footer/>
     </>
   );
 }

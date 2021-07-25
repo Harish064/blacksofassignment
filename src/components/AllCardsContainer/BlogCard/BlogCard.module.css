@@ -1,0 +1,11 @@
+.blog_card_container{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 30px 50px #00000029;
+    border-bottom: 5px solid #003189 ;
+    opacity: 1;
+}
+.blog_title{
+    width: 100px!important;
+    background: #003189 0% 0% no-repeat padding-box!important;
+    color: #FFFFFF;
+}
