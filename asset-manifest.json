@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/blacksofassignment/static/css/main.fe888568.chunk.css",
+    "main.js": "/blacksofassignment/static/js/main.8695afe6.chunk.js",
+    "main.js.map": "/blacksofassignment/static/js/main.8695afe6.chunk.js.map",
+    "runtime-main.js": "/blacksofassignment/static/js/runtime-main.65f50853.js",
+    "runtime-main.js.map": "/blacksofassignment/static/js/runtime-main.65f50853.js.map",
+    "static/css/2.4be38407.chunk.css": "/blacksofassignment/static/css/2.4be38407.chunk.css",
+    "static/js/2.b437b0f3.chunk.js": "/blacksofassignment/static/js/2.b437b0f3.chunk.js",
+    "static/js/2.b437b0f3.chunk.js.map": "/blacksofassignment/static/js/2.b437b0f3.chunk.js.map",
+    "static/js/3.b0da21e8.chunk.js": "/blacksofassignment/static/js/3.b0da21e8.chunk.js",
+    "static/js/3.b0da21e8.chunk.js.map": "/blacksofassignment/static/js/3.b0da21e8.chunk.js.map",
+    "index.html": "/blacksofassignment/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/blacksofassignment/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.fe888568.chunk.css.map": "/blacksofassignment/static/css/main.fe888568.chunk.css.map",
+    "static/js/2.b437b0f3.chunk.js.LICENSE.txt": "/blacksofassignment/static/js/2.b437b0f3.chunk.js.LICENSE.txt",
+    "static/media/Group243.cf400a21.svg": "/blacksofassignment/static/media/Group243.cf400a21.svg",
+    "static/media/AllCardsContainer.module.css": "/blacksofassignment/static/media/NoPath.c6058ac7.29eb431b.png",
+    "static/media/Home.module.css": "/blacksofassignment/static/media/side-view-of-data-analyst-pointing-with-finger-at--4DGBGUW.6008cc14.png",
+    "static/media/Header.module.css": "/blacksofassignment/static/media/sls-office3.1e9e26cb.2bbb6dc5.png",
+    "static/media/nasa-Q1p7bh3SHj8-unsplash.efc1f921.png": "/blacksofassignment/static/media/nasa-Q1p7bh3SHj8-unsplash.efc1f921.png",
+    "static/media/thisisengineering-raeng-Kzx7m3JwkcQ-unsplash.3f181ed8.png": "/blacksofassignment/static/media/thisisengineering-raeng-Kzx7m3JwkcQ-unsplash.3f181ed8.png",
+    "static/media/MainContainer.module.css": "/blacksofassignment/static/media/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.a2a9aa9c.png",
+    "static/media/thisisengineering-raeng-sbVu5zitZt0-unsplash.d3537347.png": "/blacksofassignment/static/media/thisisengineering-raeng-sbVu5zitZt0-unsplash.d3537347.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65f50853.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.b437b0f3.chunk.js",
+    "static/css/main.fe888568.chunk.css",
+    "static/js/main.8695afe6.chunk.js"
+  ]
+}
