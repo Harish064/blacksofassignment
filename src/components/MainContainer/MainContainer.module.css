@@ -1,9 +1,9 @@
 .main_container{
     position: relative;
-    height: 3000px;
+    height: 2850px;
     width: 100%;
     background-color: #FFFFFF;
-    /* background-color: red; */
+    overflow: hidden;
 }
 .offer_text{
     position: absolute;

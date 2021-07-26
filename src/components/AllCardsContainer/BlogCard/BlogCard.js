@@ -9,11 +9,12 @@ function BlogCard(props) {
                 <Card.Img variant="top" src={image} />
                 <Card.Body>
                     <Card.Title className={styles.blog_title}>Card Title</Card.Title>
-                    <Card.Text>
-                        Some quick example text to build on the card title and make up the bulk of
-                        the card's content.
+                    <Card.Title className={styles.blog_heading}>Heading</Card.Title>
+                    <Card.Text className={styles.blog_text}>
+                    Quis nostrud exercitation ullamco laboris nisi ut<br></br> aliquip ex ea commodo consequat.
                     </Card.Text>
                 </Card.Body>
+                <a className={styles.read_more_btn} href="#">READ MORE</a>
             </Card>
         </div>
     )

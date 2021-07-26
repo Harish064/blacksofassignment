@@ -61,7 +61,7 @@
 .cards_container{
     width: 100%;
     position: absolute;
-    left: 60px;
+    left: 90px;
 }
 .nav_container{
     width: 100%;
@@ -118,4 +118,44 @@
     margin-left: 10px;
     background: transparent url('../../Assets/left-arrow-1.png') 0% 0% no-repeat padding-box;
 
+}
+.partner_outer_container{
+    position: absolute;
+    top: 750px;
+    background-color: white;
+    height: 400px;
+    width: 80%;
+}
+.partner_container{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.partner_logo_container{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 100px;
+    width: 60%;
+    left: 160px;
+    height: 70px;
+}
+.logo_1{
+    width: 172px;
+    height: 66px;
+    background: transparent url('../../Assets/download(1).png') 0% 0% no-repeat padding-box;
+    background-position: center;
+    opacity: 1;
+}
+.logo_3{
+    width: 172px;
+    height: 66px;
+    background: transparent url('../../Assets/download(2).png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.logo_2{
+    width: 172px;
+    height: 66px;
+    background: transparent url('../../Assets/NoPath.c6058ac7.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
 }
