@@ -49,6 +49,27 @@ function AllCardsContainer() {
                         </div>
                     </div>
                 </div>
+                <div className={styles.partner_outer_container}>
+                    <div className={styles.partner_container}>
+                        <div className={styles.text_container}>
+                            <p className={styles.card_text_1}>
+                                PARTNERSHIP & ASSOCIATIONS
+                            </p>
+                            <div className={styles.hr_container}>
+                                <div className={styles.card_line_1}></div>
+                                <div className={styles.card_line_2}></div>
+                            </div>                    
+                            <p className={styles.card_text_2}>
+                            Using our robust in-house expertise to develop pioneering <br/>solutions catering to various business domains.
+                            </p>
+                        </div>
+                        <div className={styles.partner_logo_container}>
+                            <div className={styles.logo_1}></div>
+                            <div className={styles.logo_2}></div>
+                            <div className={styles.logo_3}></div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     )

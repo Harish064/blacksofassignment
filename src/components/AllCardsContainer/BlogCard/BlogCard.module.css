@@ -9,3 +9,22 @@
     background: #003189 0% 0% no-repeat padding-box!important;
     color: #FFFFFF;
 }
+.blog_text{
+    height: 49px;
+    text-align: left;
+    font: normal normal normal 12px/16px Access;
+    letter-spacing: 0px;
+    color: #363431;
+    opacity: 1;
+}
+.read_more_btn{
+    position: absolute;
+    bottom: 0px;
+    left: 15px;
+    letter-spacing: 0px;
+    font: normal normal normal 17px Access;
+    color: #003189;
+    margin-bottom: 7px;
+    text-transform: uppercase;
+    opacity: 1;
+}
